@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector(".text").style.color="rgb(0, 128, 0)"})();
